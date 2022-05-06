@@ -1,0 +1,1 @@
+print("Tech is the best class eh nissans?")
